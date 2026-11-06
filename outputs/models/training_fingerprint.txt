@@ -1,0 +1,6 @@
+sha1=d8110824d4345dc92ac914ba1ed1d0670de14be3
+n_train=1011
+n_features=7
+features=['Residual_to_std', 'Remove_to_std', 'TBil', 'INR', 'ALB', 'PLT', 'CSPH']
+threshold=0.3
+seed=2025
